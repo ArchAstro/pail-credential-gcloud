@@ -1,0 +1,6 @@
+{
+  "name": "gcloud",
+  "protocol": "pail-credential/1",
+  "description": "your gcloud login (gcloud auth print-access-token)",
+  "script": "pail-credential-gcloud"
+}
