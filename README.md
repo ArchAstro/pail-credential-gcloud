@@ -13,3 +13,7 @@ one repository, use gcs-downscoped (or a broker).
 
 It speaks `pail-credential/1`: `pail-credential-gcloud get` reads `{"protocol","store","scheme"}` on stdin and prints
 `{"token","expires_at"}`. `pail-extension.json` tells `pail auth install` which file to install.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
